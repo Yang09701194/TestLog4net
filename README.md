@@ -18,7 +18,7 @@
 * Yahoo SMTP Info
   * Official https://tw.help.yahoo.com/kb/SLN4075.html
   * https://www.lifewire.com/what-are-yahoo-smtp-settings-for-email-1170875
-* Yahoo - Give access to lower secure applicatino - Set this to allow log4net in program to access the mail server
+* Yahoo - Give access to lower secure application - Set this to allow log4net in program to access the mail server
   * https://forums.yahoo.net/t5/Temporary-Errors/Authentication-Failed-Error-message/td-p/88191
   * https://help.yahoo.com/kb/mail-for-desktop/SLN27791.html?impressions=true
   
