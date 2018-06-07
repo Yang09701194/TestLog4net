@@ -22,5 +22,9 @@
 * Yahoo - Give access to lower secure application - Set this to allow log4net in program to access the mail server
   * https://forums.yahoo.net/t5/Temporary-Errors/Authentication-Failed-Error-message/td-p/88191
   * https://help.yahoo.com/kb/mail-for-desktop/SLN27791.html?impressions=true
+<br/>
   
-  
+^ log4net TLS
+ ^ https://stackoverflow.com/questions/13741312/does-log4net-haven-an-smtp-appender-that-support-tls-encryption
+ * https://stackoverflow.com/questions/2057227/c-sharp-asp-net-send-email-via-tls
+ * https://stackoverflow.com/questions/13741312/does-log4net-haven-an-smtp-appender-that-support-tls-encryption
