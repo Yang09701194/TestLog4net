@@ -28,3 +28,8 @@
   * https://stackoverflow.com/questions/13741312/does-log4net-haven-an-smtp-appender-that-support-tls-encryption
   * https://stackoverflow.com/questions/2057227/c-sharp-asp-net-send-email-via-tls
   * https://stackoverflow.com/questions/13741312/does-log4net-haven-an-smtp-appender-that-support-tls-encryption
+
+<br/>
+
+* log4net cannot set max backup files by date 
+  * https://stackoverflow.com/questions/95286/log4net-set-max-backup-files-on-rollingfileappender-with-rolling-date
