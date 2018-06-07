@@ -24,7 +24,7 @@
   * https://help.yahoo.com/kb/mail-for-desktop/SLN27791.html?impressions=true
 <br/>
   
-^ log4net TLS
- ^ https://stackoverflow.com/questions/13741312/does-log4net-haven-an-smtp-appender-that-support-tls-encryption
+* log4net TLS
+ * https://stackoverflow.com/questions/13741312/does-log4net-haven-an-smtp-appender-that-support-tls-encryption
  * https://stackoverflow.com/questions/2057227/c-sharp-asp-net-send-email-via-tls
  * https://stackoverflow.com/questions/13741312/does-log4net-haven-an-smtp-appender-that-support-tls-encryption
