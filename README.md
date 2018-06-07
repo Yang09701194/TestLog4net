@@ -12,11 +12,12 @@
   * Or find it here: [log4net smtp appender not sending emails](https://stackoverflow.com/questions/18034223/smtpappender-log4net-using-gmail-smtp)
 * GMail - Set "Low Security App Access" to "Enabled"
   * https://blog.user.today/gmail-smtp-authentication-required/
+  * Official Page: https://support.google.com/accounts/answer/6010255?hl=en
 
 <br/>
 
 * Yahoo SMTP Info
-  * Official https://tw.help.yahoo.com/kb/SLN4075.html
+  * Official Page: https://tw.help.yahoo.com/kb/SLN4075.html
   * https://www.lifewire.com/what-are-yahoo-smtp-settings-for-email-1170875
 * Yahoo - Give access to lower secure application - Set this to allow log4net in program to access the mail server
   * https://forums.yahoo.net/t5/Temporary-Errors/Authentication-Failed-Error-message/td-p/88191
