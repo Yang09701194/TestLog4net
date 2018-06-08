@@ -37,3 +37,6 @@
 * log4net log message layout
   * https://www.cnblogs.com/liuning8023/p/4619384.html
   
+* Related Link
+  * https://stackoverflow.com/questions/8849439/logging-with-backup-appender
+
