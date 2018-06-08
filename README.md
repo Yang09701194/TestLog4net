@@ -33,3 +33,7 @@
 
 * log4net cannot set max backup files by date 
   * https://stackoverflow.com/questions/95286/log4net-set-max-backup-files-on-rollingfileappender-with-rolling-date
+
+* log4net log message layout
+  * https://www.cnblogs.com/liuning8023/p/4619384.html
+  
